@@ -19,12 +19,9 @@ Stable tag: 1.0
 
 
 
-This plugin adds Turkish currency for the WooCommerce Shop Plugin.Yeni TL simgenizi sitelerinizde kullanabilirsiniz. Bu Eklenti ile teman&#305;zda yada eklentinizde mevcut tl yaz&#305;s&#305; yerine Yeni TL simgesini Kullan&#305;c&#305;lar&#305;n&#305;za G&#246;sterebilirsiniz.
-
+This plugin adds Turkish currency for the WooCommerce Shop Plugin.
 
 With this plugin you can add your site New Turkish Lira icon
-
-
 
 When it was automatically added to this site
 
