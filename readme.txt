@@ -62,7 +62,7 @@ When it was automatically added to this site
 
 == Screenshots ==
 
-[screenshot-1.jpeg]
+
 
 == Changelog ==
 
