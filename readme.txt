@@ -62,30 +62,11 @@ When it was automatically added to this site
 
 == Screenshots ==
 
-
+[screenshot-1.jpeg]
 
 == Changelog ==
 
 
-
 = 1.0 =
-
-* Maintenance release
-
-* UPDATE: Changed product price calculation due to changes in WooCommerce itself -- this led to **new required versions** for this plugin: **at least WordPress 3.3 and WooCommerce 1.4** or higher (Note: If you still have WooCommerc 1.3.x running then use version 1.0 of the Delivery Notes plugin!)
-
-* UPDATE: Custom fields on settings page now accept proper `img` tags, so you can add logo images or such via HTML IMG tag (for example: `<img src="your-image-url" width="100" height="100" alt="Logo" title="My Shop" />`)
-
-* UPDATE: Corrected readme.txt file
-
-* NEW: Added Swedish translation - Thanx to Christopher Anderton
-
-* UPDATE: Updated German translations and also the .pot file for all translators!
-
-
-
-= 1.0 =
-
-* Just released into the wild.
 
 
