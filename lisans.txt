@@ -1,0 +1,205 @@
+GNU GPL (Genel Kamu Lisansý) Sürüm 3
+
+29 Haziran 2007
+
+Haklar - Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+
+Herkes bu lisans belgesini deðiþtirmeden kopyalama ve daðýtma hakkýna sahiptir, ancak deðiþtirilmesine izin verilmemektedir.
+
+Önsöz
+
+GNU GPL yazýlým ve diðer tür iþler için copyleft (özgür) bir lisanstýr.
+
+Pek çok yazýlýmýn ve diðer kullanýþlý þeyin lisansý onu paylaþma ve deðiþtirme özgürlüðünüzü elinizden almak için hazýrlanmýþtýr. Buna karþýlýk, GNU GPL (Genel Kamu Lisansý), bir programý deðiþtirme ve paylaþma hakkýnýzýn mahfuz tutulmasýný ve tüm kullanýcýlarý için özgür yazýlým olarak kalmasýný güvence altýna almayý amaçlar. Free Software Foundation pek çok yazýlýmý için GNU GPL kullanmaktadýr; ve GPL bu lisansý taþýyan diðer iþlere de uygulanýr. Siz de kendi programlarýnýza bu lisansý uygulayabilirsiniz.
+
+Özgür yazýlým dediðimizde bahsettiðimiz ücret deðil özgürlüktür. Bizim Genel Kamu Lisanslarýmýz, sizin özgür yazýlýmlarýn kopyalarýný daðýtma (ve isterseniz onlarý ücretlendirme) özgürlüðünüzü, yazýlým kaynak kodlarýnýn size daðýtým esnasýnda veya isterseniz verilmesini, yazýlýmý deðiþtirme ya da istediðiniz bölümlerini yeni programlarýnýzda kullanabilmenizi ve bunlarý yapabileceðinizi bilmeniz için tasarlanmýþtýr.
+
+Haklarýnýzý korumak için, baþkalarýnýn bu haklarýnýzý inkâr etmesini veya sizden bu haklardan vazgeçmenizi istemesini engellememiz gerekir. Bu nedenle, yazýlýmýn kopyalarýný daðýttýðýnýz veya deðiþtirdiðiniz taktirde bazý sorumluluklarýnýz vardýr: diðerlerinin özgürlüklerine karþý olan sorumluluklar.
+
+Örneðin, öyle bir programýn kopyalarýný ister ücretsiz ister ücretli daðýttýðýnýz taktirde, sizden o programý alanlara da programý alýrken elde ettiðiniz özgürlükleri geçirmeniz gerekir. Onlarýn da kaynak kodu aldýðýný veya isterlerse alabileceklerini garantilemeniz gerekir. Ve onlarýn haklarýndan haberdar olmalarý için onlara bu mukaveleyi göstermelisiniz.
+
+GNU GPL kullanan geliþtiriciler haklarýnýzý iki aþamalý olarak korur: (1) yazýlým üzerindeki haklarý beyan etmek, ve (2) size yasal olarak kopyalama, daðýtma ve/veya deðiþtirme hakký veren bu Lisans’ý saðlamak.
+
+Geliþtiricilerin ve yayýmcýlarýn korunmasý için, GPL bu özgür yazýlým için herhangi bir garanti bulunmadýðýný net bir þekilde açýklar. Hem kullanýcýlarýn ve hem de yayýmcýlarýn iyiliði için, GPL deðiþtirilen sürümlerde bulunan problemlerin yanlýþ bir þekilde önceki sürümlerin yayýmcýlarýna atfedilmemesi için deðiþtirilen sürümlerin deðiþtirildiklerine dair iþaretlenmelerini gerektirir.
+
+Bazý aygýtlar, aygýt üreticilerinin aygýt içindeki yazýlýmýn deðiþtirilmiþ hallerini aygýta yüklemesi veya çalýþtýrmasý mümkün olduðu halde, kullanýcýlarýn bunu yapmasýna izin vermeyecek þekilde tasarlanmýþtýr. Bu temelde kullanýcýlarýn yazýlýmý deðiþtirme özgürlüklerini koruma amacýyla örtüþmemektedir. Bu suistimâl bireylerin kullanýmý için olan ürünlerde sistematik olarak uygulanmakta ve görülmektedir, ki en kabul edilemez olduðu yer de budur. Bu nedenle, bu ürünlerin bu uygulamasýna mani olmak için GPL’nin bu sürümünü hazýrladýk. Benzeri problemler baþka alanlarda da kendini gösterdiði taktirde, buradaki tedariðimizi GPL’nin gelecekteki sürümlerinde, kullanýcýlarýn özgürlüklerini koruma ihtiyacýna binaen, o alanlara da geniþletmeye hazýrýz.
+
+Son olarak, her program yazýlým patentlerinin tehdidi altýndadýr. Devletler patentlerin genel amaçlý bilgisayarlarda yazýlým kullanýmýný ve geliþtirilmesini kýsýtlayan patentlere izin vermemelidir, ama izin verenlerde özgür bir yazýlýma uygulanan patentlerin onu uygulamada sahipli hale getirmesi tehlikesinden kaçýnmak istiyoruz. GPL, bunu engellemek için, programýn özgürlüðünü kýsýtlayan patentlerin kullanýlamamasýný kesinleþtirmektedir.
+
+Kopyalama, daðýtma ve deðiþtirmeyle ilgili detaylý þart ve koþullar aþaðýdadýr.
+
+ÞART ve KOÞULLAR
+
+Tanýmlar.
+
+“Bu Lisans” GNU GPL’nin üçüncü sürümünü ifade eder.
+
+“Telif Haklarý” (“Copyright”) ayný zamanda diðer tür iþ ve ürünler için geçerli olan telif hakký benzeri kanunlarý kapsar.
+
+“Program” bu Lisans ile lisanslanabilen ve telif haklarý kapsamýna alýnabilen her türlü iþi ifade eder. “Siz”, “Lisans Sahibi” veya “alýcý” olarak ifade edilebilen lisans sahibi, gerçek bir kiþi veya kurum olabilir.
+
+Bir iþi “deðiþtirmek” bir iþin bir kýsmýný veya tamamýný telif hakký izni gerektiren bir biçimde tam bir kopyasýný oluþturma haricinde uyarlamak veya kopyalamak anlamýna gelir. Sonuçta ortaya çýkan iþe önceki iþin “deðiþtirilmiþ sürümü” veya “deðiþtirilmiþ hali” ya da önceki iþi “temel alan” iþ denir.
+
+“kapsanan iþ” deðiþtirilmemiþ Programý veya Programý temel alan bir iþi anlatýr.
+
+Bir iþi “yaymak” (propagate), onu çalýþtýrma veya yerel kopyasýný deðiþtirme dýþýnda izinsiz yapýldýðýnda ilgili telif hakký kanunu ya da kanunlarý kapsamýnda sizi dolaylý veya dolaysýz olarak telif haklarý ihlâlinden mesûl tutacak þekilde o iþle birþey yapmak anlamýna gelir. Yayma, kopyalamayý, deðiþtirerek veya deðiþtirmeden daðýtmayý, halka açmayý ve bazý ülkelerde diðer eylemleri içerir.
+
+Bir iþi “taþýmak” (convey) baþkalarýnýn kopya elde etmesini ya da yapmasýný mümkün kýlan her türlü yayma iþlemidir. Bir kopya transfer edilmeden bir bilgisayar aðý yoluyla bir kullanýcýyla etkileþim taþýma deðildir.
+
+Etkileþimli bir kullanýcý arayüzü (1) uygun bir telif haklarý bildirimi gösteren ve (2) kullanýcýya iþle ilgili (sunulan garantiler dýþýnda) herhangi bir garanti olmadýðýný, lisans sahiplerinin bu Lisans kapsamýnda iþi devredebileceklerini, ve bu Lisansýn bir kopyasýna nasýl bakabileceklerini bildiren uygun ve görünür “Ýlgili Yasal Bildirimler” gösterir. Eðer arayüz kullanýcýya bir menü gibi bir dizi komut veya seçenek sunuyorsa, listede görünür bir öðe bu kriteri yerine getirir.
+
+Kaynak Kod.
+
+Bir iþin “kaynak kod”u o iþte deðiþiklik yapmak için tercih edilen biçimini anlatýr. “Nesne kod”u bir iþin kaynak kod halinde olmayan tüm biçimlerini anlatýr.
+
+Bir “Standart Arayüz” bilinen bir standart oluþturma kurumu tarafýndan tanýmlanmýþ resmî bir arayüzü veya belirli bir programlama lisaný için oluþturulan arayüzlerde o dilde çalýþan geliþtiriciler arasýnda yaygýn olan arayüzü tanýmlar.
+
+Bir çalýþtýrýlabilirin “Sistem Kütüphaneleri” iþin tamamý hariç olmak üzere (a) bir Ana Bileþen paketlenirken dahil edilen ama o Ana Bileþenin bir parçasý olmayan, ve (b) iþin o Ana Bileþenle kullanýlabilmesini mümkün kýlan veya halka kaynak kod biçiminde bir uyarlamanýn açýk olduðu durumda bir Standart Arayüz uyarlamak için kullanýlan herþeyi kapsar. Bu baðlamda bir “Ana Bileþen”, çalýþtýrýlabilir iþin koþtuðu -eðer varsa- belirli bir iþletim sisteminin elzem bir bileþenini (çekirdek, pencere sistemi vd.), iþi üretmek için kullanýlan çekirdeði, veya onu koþmak için kullanýlan nesne kodu yorumlayýcýsýný anlatýr.
+
+Bir iþe nesne kodu biçiminde “Karþýlýk Gelen Kaynak” nesne kodunu oluþturmak, yüklemek, (çalýþtýrýlabilir bir iþ için) koþturmak ve (bu iþlemleri kontrol etmek için gereken betikler dahil) iþi deðiþtirmek için gereken tüm kaynak kodlarý ifade eder.Ancak, Ýþin Sistem Kütüphanelerini ve iþin parçasý olmayan ama bahsedilen iþlemleri gerçekleþtirmek için kullanýlan ve kolay eriþilebilir olan genel amaçlý araçlarý kapsamaz. Karþýlýk Gelen Kaynak örneðin iþin kaynak dosyalarýyla ilintili arayüz tanýmlama dosyalarýný ve iþin altprogramlarý ve diðer parçalarý arasýnda veri iletiþimi veya kontrol akýþý gibi iþin özellikle gerektirmesi tasarlanmýþ olan altprogramlarýn (paylaþýlan kütüphanelerin ve dinamik baðlanan altprogramlarýn) kaynak kodlarýný içerir.
+
+Karþýlýk Gelen Kaynaðýn, Karþýlýk Gelen Kaynaðýn diðer parçalarýndan kullanýcýlarýn otomatik olarak oluþturabildiði hiçbirþeyi içermesi gerekmez.
+
+Bir iþin kaynak kod halindeki Karþýlýk Gelen Kaynaðý iþin kendisidir.
+
+Temel Ýzinler.
+
+Bu Lisans kapsamýnda verilen tüm haklar Programýn telif hakký þartý için verilmiþtir ve belirtilen koþullar karþýlandýðý taktirde geri çevrilemez ve geri alýnamaz. Bu Lisans deðiþtirilmemiþ Programý koþma konusunda size saðlanan sýnýrsýz izni aþikâr bir þekilde sýnýrsýz tasdik eder. Kapsanan bir iþin koþulmasý sonucunda oluþan çýktý sadece çýktýnýn içeriði kapsanan bir iþle örtüþtüðü taktirde bu Lisans tarafýndan kapsanýr. Bu Lisans sizin adil kullaným veya eþdeðer diðer uygulamalarýnýzý telif hakký kanunlarý tarafýndan saðlandýðý þekliyle teslim ve tasdik eder.
+
+Kapsanan iþlerden taþýmadýklarýnýzý lisansýnýzýn uygun kýldýðý þekilde koþulsuz olarak yapabilir, koþabilir veya yayabilirsiniz. Kapsanan iþleri sadece size özel deðiþiklikler yapmalarý için veya size özel deðiþiklikler yaptýklarý o iþleri koþmak için size imkân saðlamalarý amacýyla telif haklarýný kontrol etmediðiniz tüm malzemenin yayýlmasý konusunda bu Lisansýn þartlarýna uyduðunuz sürece baþkalarýna yayabilirsiniz. Kapsanan iþleri yapan veya koþanlar sadece size özel olarak, sizin adýnýza, sizin yönlendirmeniz ve kontrolünüz dahilinde, telif haklarý size ait malzemenin sizinle olan iliþkilerinin dýþýnda baþka bir kopyasýný yapmalarýna izin vermeyen þartlara uygun olarak bunu yapmalýdýr.
+
+Baþka herhangi bir durumda yaymaya sadece aþaðýda sayýlan durumlarda izin verilir. Altlisanslamaya izin yoktur; bölüm 10 bunu gereksiz kýlar.
+
+Protecting Users’ Legal Rights From Anti-Circumvention Law.
+
+Kapsanan hiçbir iþ 20 Aralýk 1996 tarihinde kabul edilmiþ olan WIPO telif haklarý aktinin 11 nci maddesindeki yükümlülükleri yerine getiren tatbikî hiçbir kanun veya benzer önlemlerin boþluklardan yararlanýlarak atlatýlmasýný yasaklayan veya sýnýrlayan benzeri hiçbir kanun kapsamýnda etkili bir teknolojik tedbirin bir parçasý olarak kabul edilmemelidir.
+
+Kapsanan bir iþi taþýdýðýnýzda, atlatmanýn bu Lisansýn kapsadýðý haklarýn icrasý yoluyla etkilenmesi kapsamý dahilinde teknolojik önlemlerin alýnmasýný menetme yasal hakkýnýzdan feragat etmiþ ve iþin kullanýcýlarýnýn, sizin veya üçüncü kiþilerin teknolojik önlemlerin atlatýlmasýný menetme yasal haklarýnýn uygulanmasýnda iþin çalýþtýrýlmasýný veya deðiþtirilmesini sýnýrlama niyetinizi reddetmiþ olursunuz.
+
+Aynî Kopyalarý Yaymak.
+
+Programýn kaynak kodunun aynî kopyalarýný aldýðýnýz þekliyle bariz ve uygun þekilde her kopyada uygun bir telif hakký bilgisi yayýnlamak þartýyla herhangi bir biçimde yayabilirsiniz; bu Lisansý ve kýsým 7'ye uymak koþuluyla eklediðiniz þartlarý beyan eden bildirilerin tamamýný ve herhangi bir garanti bulunmadýðýna dair olan bildirilerin tamamýný eksiksiz olarak bulundurun; ve tüm alýcýlara Programla birlikte bu Lisansýn bir kopyasýný verin.
+
+Yaydýðýnýz kopyalar için bir ücret talep edebilirsiniz ve/veya bir ücret karþýlýðýnda destek veya garanti teklif edebilirsiniz.
+
+Deðiþtirilmiþ Kaynak Sürümlerini Yaymak.
+
+Kýsým 4 kapsamýnda Programý temel alan bir iþi veya Programdan iþi üretecek deðiþiklikleri kaynak kod biçiminde þu koþullarý da karþýlamak þartýyla yayabilirsiniz:
+
+1. Ýþ onda deðiþiklik yaptýðýnýza dair gözle görülür bildiriler içermeli ve ilgili bir tarih vermelidir.
+2. Ýþ bu Lisans ve kýsým 7 altýna eklenen þartlar gereðince yayýnlandýðýna dair gözle görülür bildiriler içermelidir. Bu gereklilik kýsým 4'teki “tüm bildirileri deðiþtirmeden tutma” gerekliliðinde deðiþiklik yapar.
+3. Ýþin bir kopyasýný elde eden herkese tüm iþi bu Lisans kapsamýnda bir bütün olarak lisanslamalýsýnýz.Bu Lisans bu sayede kýsým 7'de verilecek tüm ek koþullar ile birlikte iþin tamamýný ve nasýl paketlenmiþ olurlarsa olsunlar tüm parçalarýný kapsayacaktýr. Bu Lisans iþin baþka herhangi bir þekilde lisanslanmasýna izin vermez, ama ayrýca bunun için bir izin aldýysanýz onu geçersiz kýlmaz.
+4. Eðer iþin etkileþimli kullanýcý arayüzleri varsa, her biri Uygun Yasal Bildirileri içermelidir; ancak eðer Programda etkileþimli arayüzlerden Uygun Yasal Bildiriler göstermeyen varsa, sizin iþinizin bunlarý gösterecek þekilde deðiþtirmesi gerekmez.
+
+Kapsanan bir iþin doðalarý gereði kapsanan iþin uzantýsý olmayan ve daha büyük bir iþ oluþturmak için o iþle birleþtirilmeyen baþka ayrý ve baðýmsýz iþlerle bir depolama veya daðýtým ortamýnda derlenmiþ hali, derlenmiþ hâl ve sonuçta ortaya çýkan telif haklarý iþlerin her birinin izin verdiðinin ötesinde derlenmiþ hâlin kullanýcýnýn eriþim veya yasal haklarýný sýnýrlamak için kullanýlmadýðý taktirde, “yekûn” olarak anýlýr. Kapsanan bir iþin bir yekûne dahil olmasý bu Lisansýn yekûnün diðer kýsýmlarýný kapsamasýna neden olmaz.
+
+Kaynak Hâlde Olmayan Biçimleri Yaymak.
+
+Makine tarafýndan okunabilir Karþýlýk Gelen Kaynaðý da yaymak þartýyla kýsým 4 ve 5'te verilen þartlar dahilinde kapsanan bir iþi nesne kodu biçiminde bu Lisansýn þartlarý kapsamýnda þu yollardan biriyle yayabilirsiniz.
+
+1. Nesne kodunu, özellikle yazýlým deðiþ-tokuþu için kullanýlan dayanýklý bir fiziksel ortama maktu Karþýlýk Gelen Kaynakla birlikte olmak þartýyla, (fiziksel bir daðýtým ortamý dahil) fiziksel bir üründe yayabilirsiniz.
+2. Nesne kodunu, en az üç yýl ve sizin o ürün modeli için yedek parça veya müþteri desteði saðlamayý teklif ettiðiniz süre boyunca geçerli yazýlý bir teklifle birlikte, nesne koduna sahip olan herhangi kiþilere (1) bu Lisans tarafýndan kapsanan üründeki tüm yazýlýma Karþýlýk Gelen Kaynaðýn bir kopyasýný özellikle yazýlým deðiþ-tokuþu için kullanýlan dayanýklý bir fiziksel ortamda bu kaynaðýn yaymanýza karþýlýk makul bir tutarý aþmayan bir ücret karþýlýðýnda veya (2) Karþýlýk Gelen Kaynaða bir að sunucusu üzerinden ücretsiz olarak eriþim imkânýyla, (fiziksel bir daðýtým ortamý dahil) fiziksel bir üründe yayabilirsiniz.
+3. Karþýlýk Gelen Kaynaðý saðlamaya yönelik yazýlý bir teklifin bir kopyasýyla birlikte nesne kodunun müstakil kopyalarýný yayabilrisiniz. Bu alternatife sadece bazen ve ticari olmayacak þekilde, ve sadece eðer siz nesne kodunu böyle bir teklifle elde ettiyeseniz, kýsým 6 madde (b)’ye uygun olarak izin verilir.
+4. Tasrih edilmiþ bir yerden ücretli veya ücretsiz eriþim sunma yoluyla nesne kodunu yayabilirsiniz, ve ek bir ücret talebinde bulunmadan Karþýlýk Gelen Kaynaða ayný yer yoluyla ayný þekilde eþdeðer eriþim sunabilirsiniz. Alýcýlarýn nesne koduyla birlikte Karþýlýk Gelen Kaynaðýn bir kopyasýný almalarýný þart koþmanýz gerekmez. Eðer nesne kodunun kopyalanacaðý yer bir að sunucusu ise, nesne kodunun yanýnda Karþýlýk Gelen Kaynaðýn nereden edinilebileceðini belirten açýk talimatlar bulundurmak koþuluyla Karþýlýk Gelen Kaynak eþdeðer kopyalama kolaylýklarýný sunan ve sizin tarafýnýzdan veya bir üçüncü kiþi tarafýndan iþletilen farklý bir sunucu olabilir. Karþýlýk Gelen Kaynaðýn hangi sunucularda barýndýrýldýðýndan baðýmsýz olarak, bu gereklilikleri karþýlamak gerektiði sürece mevcut ve eriþilebilir olduðundan emin olmakla zorunlu olursunuz.
+5. Diðer eþdüzey kullanýcýlarý’ (peer) iþin nesne kodunun ve Karþýlýk Gelen Kaynaðýnýn kýsým 6(b) kapsamýnda ücret talebi olmaksýzýn umuma açýk olarak nerede bulunduðu konusunda bilgilendirmek þartýyla, nesne kodunu eþdüzeyler / kullanýcýlar arasý (peer-to-peer) aktarým yoluyla yayabilirsiniz.
+
+Nesne kodunun ayrýlabilir bir parçasý Nesne kodunun, kaynak kodu bir Sistem Kütüphanesi olarak Karþýlýk Gelen Kaynaða dahil edilmeyen ayrýlabilir bir parçasýnýn, nesne kodu iþini yayarken dahil edilmesi gerekmez.
+
+Bir “Kullanýcý ürünü” ya (1) normalde, kiþisel ve/veya ailevi amaçla ve/veya evin idamesi amacýyla kullanýlan gerçek herhangi bir mülk anlamýnda bir “tüketici ürünü”dür veya (2) ikametgâhta kullanýlmak üzere tasarlanan veya satýlan herhangi birþeydir. Bir ürünün tüketici ürünü olup olmadýðýný belirlemede tereddüt yaþanan durumlar kapsam dikkate alýnarak çözümlenmelidir. Belirli bir kullanýcý tarafýnan alýnan belirli bir ürün için, “normal kullaným” o belirli kullanýcýnýn durumu ve o belirli kullanýcýnýn o ürünü kullanýp kullanmadýðýna, kullanmasý beklenip beklenmediðine, veya ne þekilde kullanmasý beklendiðine bakýlmaksýzýn o sýnýftaki bir ürünün tipik ve yaygýn kullanýmýna iþaret eder. Bir ürün ürünün ticarî, endüstriyel veya tüketici-dýþý kullanýmlarý -bu kullanýmlar ürünün tek bariz kullaným þekli olmadýklarý sürüce- dikkate alýnmaksýzýn bir tüketici ürünüdür.
+
+Bir Kullanýcý Ürünü için “Kurulum Bilgisi” Kullanýcý Ürününün Karþýlýk Gelen Kaynaðýnýn deðiþtirilmiþ bir hâlinden elde edilen Kullanýcý Ürününde kapsanan bir iþin kurulumu ve çalýþtýrýlmasý için gereken yöntemler, prosedürler, yetkilendirme anahtarlarý veya diðer bilgilerdir. Bilginin deðiþtirilmiþ nesne kodunun çalýþabilir kalmasýnýn hiçbir durumunda sýrf deðiþiklik yapýldý diye engellenmediðini ve müdahaleye maruz kalmadýðýný garantilemesi yeterli olmalýdýr.
+
+Bu kýsýmdaki bir nesne kodu iþini bir Kullanýcý Ürünü ile, ürünün içinde veya özellikle o üründe kullanýlmak üzere yayarsanýz ve eðer yayma sahip olma ve Kullanýcý Ürününü kullanma haklarý belirli bir süre için veya süresiz olacak þekilde alýcýya nakledilerek bir aktarýmýn (aktarýmýn tavsifi nasýl olursa olsun) parçasý olursa, bu kýsýmdaki Karþýlýk Gelen Kaynak Kurulum Bilgisine eþlik etmelidir. Ama bu gereklilik ne siz ne de herhangi bir üçüncü kiþi deðiþtirilmiþ nesne kodunu Kullanýcý Ürününe kurma veya yükleme kudretini elinde bulundurduðu taktirde (örneðin iþ ROM’a yüklendiðinde veya kurulduðunda) geçerli deðildir.
+
+Kurulum Bilgisi sunma gerekliliði alýcý tarafýndan deðiþtirilmiþ veya kurulumuþ bir iþ ve iþin içinde deðiþtirildiði veya iþin kurulduðu ya da yüklendiði Kullanýcý Ürünü için destek servisi, garanti veya güncelleme gerekliliði getirmez. Deðiþtirme iþleminin kendisi maddeten ve olumsuz þekilde aðýn iþleyiþini etkilerse veya að içerisinde iletiþim için varolan kural veya protokolleri ihlâl ederse bir aða eriþim reddedilebilir.
+
+Bu kýsma uygun olarak Karþýlýk Gelen Kaynak yayýldýðýnda ve Kurulum Bilgisi sunulduðunda, alenen belgelendirilmiþ ve umuma kaynak kod biçiminde açýk olarak uyarlanmýþ bir biçemde olmalýdýr, ve açmak, okumak veya kopyalamak için herhangi bir parola veya anahtar gerektirmemelidir.
+
+Ek Koþullar.
+
+“Ek koþullar” bu Lisansýn þartlarýna bir veya daha fazla koþulun istisnasýný oluþturarak ilâve edilen þartlardýr. Programýn tamamýna tatbik edilen ek koþullar ilgili kanun kapsamýnda geçerli olmak koþuluyla bu Lisansa dahil edilmiþ kabul edilmelidir. Eðer ek koþullar Programýn sadece bir kýsmýna atfedilmiþse, o kýsým o koþullar kapsamýnda ayrýca kullanýlabilir, ama Programýn tamamý, ek koþullar dikkate alýnmaksýzýn, bu Lisans kapsamýndadýr.
+
+Kapsanan bir iþinin bir kopyasýný yaydýðýnýzda, kendi tercihinize baðlý olarak o kopyadan ve istediðiniz herhangi bir kýsmýndan ek koþullarý kaldýrabilirsiniz. (Belirli durumlarda iþi deðiþtirdiðinizde kaldýrýlmalarýný gerektirecek þekilde ek koþullar yazýlmýþ olabilir.) Kapsanan bir iþe sizin tarafýnýzdan eklenmiþ bir malzemeye uygun telif haklarý koþullarýna sahip olmak veya verebilmek þartýyla ek koþullar koyabilirsiniz.
+
+Bu Lisansýn diðer koþullarýyla uyumsuz olmayacak þekilde Kapsanan bir iþe eklediðiniz bir malzeme için o malzemenin telif haklarýný elinde bulunduranlar tarafýndan yetkili kýlýnýrsanýz bu Lisansýn þartlarýna þu koþullar kapsamýnda eklemelerde bulunabilirsiniz:
+
+1. Bu Lisansýn 15 ve 16 nci kýsýmlarýmlarýndaki þartlardan farklý olarak taahhütünüzü sýnýrlandýrabilir veya garanti vermeyebilirsiniz; veya
+2. Belirteceðiniz mahsus yasal bildirilerin veya o malzemeye yazarlarýn yaptýðý katkýlarýn malzemede veya onu içeren iþler tarafýndan gösterilen Mahsus Yasal Bildirilerde korunmasýný þart koþabilirsiniz; veya
+3. O malzemenin kökeni hakkýnda yanlýþ veya yalan bilgi verilmesini yasaklayabilir veya o malzemenin deðiþtirilmiþ hâllerinin ve sürümlerinin asýl hâl ve sürümlerinden farklý olduklarýný makul þekillerde göstermelerini þart koþabilirsiniz; veya
+4. Malzemenin yazarlarýnýn veya lisans sahiplerinin isimlerinin ilan edilme amacýyla kullanýlmasýný sýnýrlandýrabilirsiniz; veya
+5. Malzemeyi yayanlardan o malzemenin (veya deðiþtirilmiþ hâl ya da sürümlerinin) lisans sahiplerinin ve yazarlarýnýn mukaveleden doðan ve mukaveleyle alýcýya yüklenen mesuliyet varsayýmý çerçevesinde lisanslayanlara ve yazarlarýna karþý her türlü zararýn ödenmesini ve karþýlanmasýný talep edebilirsiniz.
+
+Kýsýtlayýcý tüm diðer ek koþullar kýsým 10 kastý dahilinde “ilave kýsýtlama” olarak kabul edilir. Eðer aldýðýnýz Program veya herhangi bir parçasý bu Lisansýn hükümlerine tabi olduðunu ve ilave kýsýtlamalar bulunduðunu belirten bir bildirim taþýyorsa, o koþulu kaldýrabilirsiniz. Eðer bir lisans belgesi ilave kýsýtlama taþýyor ama bu Lisans kapsamýnda yeniden lisanslamaya veya yaymaya ruhsat veriyorsa, ilave kýsýtlamanýn o tür bir yeniden lisanslama veya yayma durumunda devam etmemesi koþuluyla kapsanan bir iþe o lisans belgesi hükümlerince malzeme ekleyebilirsiniz.
+
+Kapsanan bir iþe bu kýsma zýt düþmemek þartýyla koþul eklerseniz, ilgili kaynak dosyalarda o dosyalara hasreden ek koþullarla ilgili bir beyanat veya tatbik edilmesi gereken koþullarýn nerede bulunabileceðini belirten bir ibare yerleþtirmelisiniz.
+
+Kýsýtlayýcý veya deðil, ek koþullar ayrý yazýlan bir lisans biçiminde veya istisnalar olarak belirtilebilir; her iki durumda da yukarýdaki gereklilikler geçerlidir.
+
+Sonlandýrma.
+
+Bu Lisansla saðlanan yollar dýþýnda kapsanan bir iþi kesinlikle yayamaz ve deðiþtiremezsiniz. Yaymak veya deðiþtirmek için aksi her türlü teþebbüs geçersizdir ve bu Lisans kapsamýndaki tüm haklarýnýzý (11 nci kýsým 3 nci paragrafta saðlanan patent lisanslarý dahil) sonlandýrýr.
+
+Ancak, bu Lisansý ihlâl davranýþlarýnýzý keserseniz, belirli telif haklarý sahibinden olan lisansýnýz (a) telif haklarý sahibi sarih ve nihaî olarak sonlandýrana kadar geçici olarak ve (b) eðer telif haklarý sahibinin ihlâli takiben 60 gün içinde sizi makûl bir yolla ihlâlinizinden haberdar etmemesi halinde daimî olarak iade edilir.
+
+Ayrýca, belirli telif haklarý sahibinden olan lisansýnýz, telif haklarý sahibi sizi makûl bir yolla ihlâlinizden haberdar ederse, bu sizin bu Lisansý ihlâlinize dair aldýðýnýz ilk ihbarname ise ve ihbarnameyi aldýktan sonra 30 gün içinde ihlâli durdurursanýz, daimî olarak iade edilir.
+
+Bu kýsým kapsamýnda haklarýnýzýn sonlandýrýlmasý bu Lisans kapsamýnda sizden kopyalar veya haklar alan üçüncü kiþilerin lisanslarýný sonlandýrmaz. Eðer haklarýnýz sonlandýrýldýysa ve daimî olarak iade edilmediyse, kýsým 10 kapsamýnda ayný malzeme için yeni lisans almaya ehliyetsiz olursunuz.
+
+Kopya Sahibi Olmak Ýçin Kabul Gerekmez.
+
+Programýn bir kopyasýný almak veya çalýþtýrmak için bu Lisansý kabul etmeniz gerekmez. Kaynaktan kaynaða aktarým yöntemleri sonucu kapsanan bir iþin bir kopyasýnýn edinilmesi için aktarýlmasýna yardýmcý olmak da benzer þekilde kabul etmeyi gerektirmez. Ancak, bu Lisans dýþýnda hiçbirþey size kapsanan herhangi bir iþin yayýlmasý veya deðiþtirilmesi izni vermez. Bu Lisansý kabul etmediðiniz taktirde bu eylemler telif haklarý ihlâline girer. Bundan dolayý, kapsanan bir iþi yayarak veya deðiþtirerek, öyle yapabilmek için bu Lisansý kabul ettiðinizi dolaylý olarak belirtmiþ olursunuz.
+
+Alýcýdan Alanlarýn Downstream Recipients Otomatik Lisanslanmasý.
+
+Kapsanan bir iþi her aktarmanýzda, alýcý bu Lisans kapsamýnda otomatik olarak lisansýn ilk sahibinden o iþi koþmak, deðiþtirmek ve yaymak için bir lisans alýr. Üçüncü kiþileri bu Lisansa uymaya zorlama sorumluðunuz yoktur.
+
+Bir “varlýk aktarým iþlemi” bir organizasyonun veya kurumun kendisinin veya tüm mallarýnýn kontrolünün baþkasýna verilmesi, organizasyon veya kurumun alt bölümlere ayrýlmasý, veya organizasyonlarýn birleþmesi iþlemidir. Kapsanan bir iþin yayýlmasý bir varlýk aktarým iþlemi sonucunda gerçekleþmiþse, iþlemin iþin bir kopyasýný alan tüm halefler önceki paragraf kapsamýnda ilgili selefin iþle ilgili sahip olduðu veya verebildiði tüm lisanslarý ve ilgili seleften iþin Karþýlýk Gelen Kaynaðýna (eðer sahipse veya makûl þekilde alabilecekse) sahip olma hakkýný da elde eder.
+
+Bu Lisans kapsamýnda temin ve tasdik edilen haklarýn kullanýmý üzerine baþka herhangi bir kýsýtlama getiremezsiniz. Örneðin, bir lisans ücreti, iþletme payý, veya bu Lisans kapsamýnda temin edilen haklarýn kullanýmý için baþka herhangi bir ücret yükleyemezsiniz ve Programý veya herhangi bir parçasýný yaparak, kullanarak, satýþa çýkararak veya ithâl ederek import patent haklarýnýn ihlâl edildiðini iddia eden çapraz cross-claim ya da karþý dava counterclaim dahil dava açamazsýnýz.
+Patentler.
+
+Bir “iþtirakçi” Programýn veya Programý temel alan bir iþin bu Lisans kapsamýnda kullanýmýna ruhsat veren telif haklarý sahibidir. Bu veçhile lisanslanan iþe iþtirakçinin “iþtirakçi sürümü” denir.
+
+Bir iþtirakçinin “aslî patent mülkiyeti” iþtirakçinin sahip olduðu ya da iþtirakçi tarafýndan þu anda kontrol edilen veya ileride kontrol edilecek olan ve bu Lisans tarafýndan izin verilen iþtirakçi sürümünün yapýlmasý, kullanýlmasý veya satýlmasý yoluyla bir anlamda ihlâl edilecek olan ama iþtirakçi sürümünün sadece deðiþtirilmesi sonucu ihlâl edilmesini ttüm patent mülkiyetidir. Bu tanýmýn amacý gereði, “kontrol” bu Lisansýn gerekleri ile uyumlu bir biçimde patent alt lisanslarý verme hakkýný içerir.
+
+Her iþtirakçi size iþtirakçinin aslî patent mülkiyeti dahilinde iþtirakçi sürümünü yapmak, kullanmak, satmak, satýlýða çýkarmak, ithâl etmek, koþmak, içeriðini deðiþtirmek ve yaymak için size has olmayan, cihanþümul ve iþletme payý içermeyen patent lisansý saðlar.
+
+Takip eden üç paragrafta, bir “patent lisansý” bir patenti mecburi olarak tatbik ettirmemek için ismi konmamýþ her türlü hususi mukavele ve taahhütü (bir patenti tatbik etmek için hususi izni veya patent ihlâlinden dolayý dava etmeme aktini) ifade eder. Bir üçüncü kiþiye böyle bir patent lisansýný vermek o üçüncü kiþiye karþý patentin tatbiki zorunluluðunu kaldýracak bir mukavele yapma veya taahhütte bulunma anlamýna gelir.
+
+Bilinçli olarak bir patent lisansýna dayanarak kapsanan bir iþi taþýrsanýz ve iþin Karþýlýk Gelen Kaynaðý umuma açýk bir að sunucusu veya diðer kolayca eriþilebilir yollardan ücretsiz ve bu Lisansýn þartlarý kapsamýnda umuma açýk olmazsa, ya (1) Karþýlýk Gelen Kodu bahsi geçen þekilde açýk olmasýný saðlamalýsýnýz, ya (2) kendinizi o iþ için patent lisansýnýn saðladýðý yarardan mahrum kýlmayý ayarlamanýz, ya da (3) bu Lisansýn gerektirdikleriyle uyumlu bir biçimde patent lisansýný alýcýdan alanlar için geniþletmeniz gerekir. “Bilinçli olarak dayanmak” patent lisansýna raðmen kapsanan iþi bir ülkede yaymanýzýn veya alýcýnýzýn kapsanan iþi bir ülkede kullanmasýnýn o ülkede varolan ve geçerli olduðuna inandýðýnýz bir veya daha fazla patenti ihlâl edeceði fiilî bilgisine sahip olmanýz demektir.
+
+If, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving the covered work authorizing them to use, propagate, modify or convey a specific copy of the covered work, then the patent license you grant is automatically extended to all recipients of the covered work and works based on it.
+
+Bir patent lisansý, kapsamýnda bu Lisansla saðlanan haklarýn bir veya daha fazlasýný taþýmýyorsa, kullanýlmasýný yasaklýyorsa veya kullanýlmamasýný þart koþuyorsa “ayrýmcýdýr”. Eðer yazýlým daðýtma iþinde olan üçüncü bir kiþiyle iþi taþýma eyleminizin kapsamý dahilinde üçüncü kiþiye ödeme yaptýðýnýz ve kapsanan iþi sizden alacak kiþilere (a) tarafýnýzdan taþýnmýþ kapsanan iþ kopyalarýyla (veya onlardan yapýlan kopyalarla) ilgili veya (b) kapsanan iþi içeren belirli ürün veya derlemeler için ve onlarla ilgili ayrýmcý bir patent lisansý veren bir mukavele yapmýþsanýz, siz o anlaþmaya girmemiþseniz veya o patent lisansý 28 Mart 2007'den önce verilmemiþse, kapsanan bir iþi taþýyamazsýnýz.
+
+Bu Lisanstaki hiçbirþey ima edilen herhangi bir lisans veya ihlâl savunmasýný uygulanabilir patent kanunlarý kapsamý dýþýnda hariç tutuyor veya sýnýrlýyormuþ gibi algýlanmamalýdýr.
+
+Baþkalarýnýn Özgürlüðünü Teslim Etmeme.
+
+Eðer size bu Lisansýn þartlarýyla uyuþmayan bazý zorunluluklar yüklenirse (bir mahkeme kararý, mukavele veya baþka suretle), bu zorunluluklar sizi bu Lisansýn þartlarýndan muaf kýlmaz. Eðer kapsanan bir iþi bu Lisans kapsamýnda ve süresince sürekli olarak karþýlayabilecek þekilde taþýyamýyorsanýz, bunun sonucu olarak, onu taþýyamazsýnýz. Örneðin, Programý taþýdýklarýnýzdan telif hakký ücreti almanýzý zorunlu kýlan þartlarý kabul ettiyseniz, hem o þartlarý hem de bu Lisansý yerine getirmenin tek yolu Programý taþýmaktan tamamen çekilmektir.
+
+GNU Affero GPL (Genel Kamu Lisansý) ile Kullaným.
+
+Bu Lisansýn koþullarýyla ilintili olarak, kapsanan herhangi bir iþi GNU Affero GPL’nin (Genel Kamu Lisansý) 3 nci sürümüyle lisanslanmýþ bir iþle birleþtirip veya baðlayýp tek bir birleþtirilmiþ iþ ortaya çýkarabilir ve sonuçta ortaya çýkan iþi taþýyabilir veya devredebilirsiniz. Bu Lisansýn koþullarý kapsanan iþ olan kýsma tatbik edilmeye devam edecektir, ama GNU Affero GPL’nin (Genel Kamu Lisansý) bir að üzerinden etkileþimle ilgili olan 13 nci kýsmý birleþime tatbik edilecektir.
+
+Bu Lisansýn Gözden Geçirilmiþ Sürümleri.
+
+Free Software Foundation zaman zaman GNU GPL’nin (Genel Kamu Lisansý) gözden geçirilmiþ veya yeni sürümlerini yayýmlayabilir. Bu yeni sürümler temel düþünce olarak þu andaki sürüme benzer olacaktýr, ancak detaylarý yeni problemleri veya kaygýlarý gidermek amacýyla farklý olabilir.
+
+Her sürüme onu diðerlerinden ayýran bir sürüm numarasý verilir. Eðer Program GNU GPL’nin (Genel Kamu Lisansý) belirli bir sürümü “veya daha sonraki sürümlerinden biri” kapsamýnda olduðunu belirtiyorsa, o belirli sürümün veya Free Software Foundation tarafýndan daha sonra yayýmlanan herhangi bir sürümün þart ve koþullarý kapsamýnda hareket edebilirsiniz. Eðer Program GNU GPL (Genel Kamu Lisansý) için herhangi bir sürüm numarasý belirtmezse, Free Software Foundation tarafýndan yayýmlanan herhangi bir sürümü seçebilirsiniz.
+
+Eðer program bir vekilin GNU GPL’nin (Genel Kamu Lisansý) hangi ileriki sürümlerinin kullanýlabileceðine bir vekilin karar verebileceðini belirtiyorsa, o vekilin bir sürümün kabulüne dair umumî beyanatý sizi Program için o sürümü seçmeye kalýcý olarak yetkili kýlar.
+
+Daha sonraki lisans sürümleri size ek veya farklý izinler verebilir. Ancak, daha sonraki bir sürüme göre hareket etme kararýnýz sonucunda hiç bir müellif veya telif haklarý sahibi üzerine ek mecburiyetler yüklenmez.
+
+Garanti Feragatnamesi.
+
+PROGRAM ÝÇÝN, ÝLGÝLÝ KANUNLARIN ÝZÝN VERDÝÐÝ ÖLÇÜDE, HERHANGÝ BÝR GARANTÝ YOKTUR. AKSÝ YAZILI OLARAK BELÝRTÝLMEDÝÐÝ MÜDDETÇE TELÝF HAKKI SAHÝPLERÝ VE/VEYA BAÞKA ÞAHISLAR YAZILIMI “OLDUÐU GÝBÝ”, SATILABÝLÝRLÝÐÝ VEYA HERHANGÝ BÝR AMACA UYGUNLUÐU DA DAHÝL OLMAK ÜZERE AÞÝKAR VEYA ZIMNEN HÝÇBÝR GARANTÝ VERMEKSÝZÝN DAÐITMAKTADIRLAR. YAZILIMIN KALÝTESÝ VEYA PERFORMANSI ÝLE ÝLGÝLÝ TÜM RÝSKLER SÝZE AÝTTÝR. YAZILIMIN KUSURLU OLDUÐU ORTAYA ÇIKTIÐINDA DAHÝ, HERHANGÝ BÝR KUSURDAN DOÐABÝLECEK OLAN GEREKLÝ BÜTÜN SERVÝS, TAMÝR VEYA DÜZELTME MASRAFLARI SÝZE AÝTTÝR.
+
+Mesuliyetin Sýnýrlanmasý.
+
+ÝLGÝLÝ KANUNUN ÝCBAR ETTÝÐÝ VEYA YAZILI ANLAÞMA DAHÝLÝNDEKÝ DURUMLAR HARÝCÝNDE HERHANGÝ BÝR ÞEKÝLDE TELÝF HAKKI SAHÝBÝ VEYA YUKARIDA ÝZÝN VERÝLDÝÐÝ ÞEKÝLDE YAZILIMI DEÐÝÞTÝREN VEYA AKTARAN HERHANGÝ BÝR KÝÞÝ, YAZILIMIN KULLANIMI VEYA KULLANILAMAMASI (VEYA VERÝ KAYBI OLUÞMASI, VERÝNÝN YANLIÞ, KULLANIÞSIZ, KULLANILAMAZ VEYA BOZUK HALE GELMESÝ, SÝZÝN VEYA ÜÇÜNCÜ ÞAHISLARIN ZARARA UÐRAMASI VEYA YAZILIMIN BAÞKA YAZILIMLARLA BERABER ÇALIÞMAYI BAÞARAMAMASI) YÜZÜNDEN OLUÞAN GENEL, ÖZEL, DOÐRUDAN YA DA DOLAYLI HERHANGÝ BÝR ZARARDAN, BÖYLE BÝR TAZMÝNAT TALEBÝ TELÝF HAKKI SAHÝBÝ VEYA ÝLGÝLÝ KÝÞÝYE BÝLDÝRÝLMÝÞ OLSA DAHÝ, SORUMLU DEÐÝLDÝR.
+
+Kýsým 15 ve 16'nýn Yorumlanmasý.
+
+Eðer yukarýda belirtilen garanti feragatnamesi ve taahhüt sýnýrlarý þartlarý dikkate alýnarak yerel ortamda yasal etki dahilinde uygulanamýyorsa, konuyu ele alan mahkemeler, Programýn bir kopyasý ile birlikte bir ücret karþýlýðý olarak bir garanti veya mesuliyet kabulü gelmediði taktirde, Programla ilintili tüm bireysel mesuliyetlerden tam bir feragata en yakýn yerel kanunlarý uygulamalýdýr.
