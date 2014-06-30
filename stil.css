@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'AbakuTLSymSansRegular';
+    src: url('abakutlsymsans.eot');
+    src: url('abakutlsymsans.eot?#iefix') format('embedded-opentype'),
+         url('abakutlsymsans.woff') format('woff'),
+         url('abakutlsymsans.ttf') format('truetype'),
+         url('abakutlsymsans.svg#AbakuTLSymSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.TL:before{
+	font-family: "AbakuTLSymSansRegular", serif;
+	font-size:100%;
+	content:"t";
+	padding-right:5px;
+    
+}
