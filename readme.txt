@@ -21,8 +21,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Direkt olarak eklentiyi aktif ediyorsunuz sitenizde otomatik olarak TL simgesi gorunuyor.
 
 Dileyen arkadaslarimiz tl simgesi yerine TL yazdirabilir, bunun icin yenitl.php dosyasi icinde 34. satir da bulunan,
-'function tl_birimi(){return '<span class="TL"></span>';}' yerine 
-'function tl_birimi(){return 'TL';}' seklinde dosyayi guncelleyebilirler.
+<span class="TL"></span> yerine TL seklinde dosyayi guncelleyebilirler.
 
 Woocommerce panelden "Turk lirasi"ni secmelisiniz.
 
