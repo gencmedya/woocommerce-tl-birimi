@@ -38,9 +38,9 @@ Woocommerce panelden "Turk lirasi"ni secmelisiniz.
 
   Demo icin tiklayin --> [dogadayiz.net](https://dogadayiz.net)
   
-  woocommerce sanal pos --> [eticaretmusterisi](http://eticaretmusterisi.com)
+  tavsiye : woocommerce sanal pos --> [Woocommerce Sanal POS](http://eticaretmusterisi.com)
   
-  woocommerce sanal pos desteklidir.
+  Pluginimiz e-ticaret sisteminizde sorunsuz kullanabileceginiz woocommerce sanal pos desteklidir.
 
 == Installation ==
 
