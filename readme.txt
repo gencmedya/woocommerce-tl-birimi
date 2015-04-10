@@ -64,7 +64,7 @@ Woocommerce panelden "Turk lirasi"ni secmelisiniz.
 
 == Changelog ==
 
-= 2.1 =
+= 2.2 =
 
 * Readme.txt duzenlemesi
 
